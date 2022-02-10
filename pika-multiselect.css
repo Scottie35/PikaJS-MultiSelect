@@ -1,0 +1,31 @@
+div.sms-container {
+	width: 80%;
+	height: 150px;
+}
+select, div.sms-pseudo-select {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #282828;
+	background: #E6F2FF;
+	border: 1px solid #BEBEBE;
+	padding: 5px 1px 5px 5px;
+	height: 200px;
+	width: 100%;
+}
+div.sms-pseudo-select {
+	height: 150px;
+	cursor: pointer;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+div.sms-pseudo-select div.sms-selected {
+	color: #FFFFFF;
+	background: #3399FF;
+	text-align: left;
+	white-space: nowrap;
+}
+div.sms-pseudo-select div.sms-unselected {
+	background: transparent;
+	text-align: left;
+	white-space: nowrap;
+}

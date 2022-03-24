@@ -1,8 +1,8 @@
-div.sms-container {
+div.pms-container {
 	width: 80%;
 	height: 150px;
 }
-select, div.sms-pseudo-select {
+select, div.pms-pseudo-select {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #282828;
@@ -12,19 +12,19 @@ select, div.sms-pseudo-select {
 	height: 200px;
 	width: 100%;
 }
-div.sms-pseudo-select {
+div.pms-pseudo-select {
 	height: 150px;
 	cursor: pointer;
 	overflow-y: auto;
 	overflow-x: hidden;
 }
-div.sms-pseudo-select div.sms-selected {
+div.pms-pseudo-select div.pms-selected {
 	color: #FFFFFF;
 	background: #3399FF;
 	text-align: left;
 	white-space: nowrap;
 }
-div.sms-pseudo-select div.sms-unselected {
+div.pms-pseudo-select div.pms-unselected {
 	background: transparent;
 	text-align: left;
 	white-space: nowrap;

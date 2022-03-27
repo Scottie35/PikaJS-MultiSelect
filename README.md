@@ -2,6 +2,8 @@
 
 MultiSelect plugin for PikaJS that is only **1.48KB** minified!!
 
+[Try the PikaJS Demo!](https://pikajs.com/)
+
 ## What is PikaJS?
 
 [PikaJS](https://github.com/Scottie35/PikaJS) is a client-side scripting library like jQuery, but 7 times smaller, faster, and more efficient.
@@ -50,5 +52,7 @@ These options just define the class names that will be used to create a virtual 
 Note that OPTGROUPs are also supported.
   
 Other than that, you're done! Wasn't that easy?
+
+[Try the PikaJS Demo!](https://pikajs.com/)
   
 **That's all, folks!**
